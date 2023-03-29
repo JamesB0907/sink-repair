@@ -1,0 +1,21 @@
+.field {
+    display: flex;
+    flex-direction: column;
+    max-width: 20rem;
+    margin: 10px;
+}
+
+
+#submitRequest {
+    margin: 1rem 0 2rem 2rem;
+    padding: 0.5rem;
+    background-color: rgb(60, 68, 172);
+    color: lightgoldenrodyellow;
+    font-size: 1rem;
+}
+
+.request__delete {
+    background-color: rgb(60, 68, 172);
+    border: double lightgoldenrodyellow;
+    color: lightgoldenrodyellow;
+}
